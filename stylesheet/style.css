@@ -224,9 +224,16 @@ nav {
   font-weight: 175;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   font-size: 24px;
+  text-decoration: none;
 }
 
+.header_section a:hover {
+text-decoration: underline;
+}
+
+
 #img1 {
+  left: 76%;
   position: absolute;
   height: 25%;
   width: auto;
