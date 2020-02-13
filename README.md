@@ -21,7 +21,7 @@ Solo project, let me learn how to make containers work together with the backgro
 
 👤 **Jorge Cerón**
 
-- Github: [@iduducus](https://github.com/duducus)
+- Github: [@duducus](https://github.com/duducus)
 
 ## Show your support
 
