@@ -221,6 +221,17 @@ nav ul {
   text-decoration: none;
 }
 
+.small3 > a {
+  position: absolute;
+  left: 20%;
+  flex-flow: row no-wrap;
+}
+
+.small3 > img {
+  position: absolute;
+  left: 72%;
+}
+
 .header_section a:hover {
   text-decoration: underline;
 }
@@ -276,17 +287,6 @@ nav ul {
 
 .small3 {
   display: flex;
-}
-
-.small3 a {
-  position: absolute;
-  left: 20%;
-  flex-flow: row no-wrap;
-}
-
-.small3 img {
-  position: absolute;
-  left: 72%;
 }
 
 .footer_link {
