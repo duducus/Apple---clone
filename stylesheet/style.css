@@ -42,7 +42,6 @@ nav {
   top: 5.7rem;
   text-align: center;
   border-radius: 5px;
-  margin-left: 12%;
   background: linear-gradient(to bottom, rgb(59, 59, 59), rgb(150, 150, 150) 50%);
   display: flex;
   align-items: flex-end;
