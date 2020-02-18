@@ -36,13 +36,17 @@ main {
 
 nav {
   position: absolute;
+  width: 980px;
+  height: 34px;
+  left: 15%;
   top: 5.7rem;
-  width: 65%;
-  height: 2.4rem;
   text-align: center;
   border-radius: 5px;
   margin-left: 12%;
   background: linear-gradient(to bottom, rgb(59, 59, 59), rgb(150, 150, 150) 50%);
+  display: flex;
+  align-items: flex-end;
+  margin: 0 auto;
 }
 
 nav ul {
@@ -55,15 +59,6 @@ nav ul {
   width: 1440px;
   margin: -3.5% auto;
   padding: 0;
-}
-
-nav {
-  display: flex;
-  align-items: flex-end;
-  margin: 0 auto;
-  width: 980px;
-  height: 34px;
-  left: 15%
 }
 
 .nav-item {
@@ -228,9 +223,8 @@ nav {
 }
 
 .header_section a:hover {
-text-decoration: underline;
+  text-decoration: underline;
 }
-
 
 #img1 {
   left: 76%;
